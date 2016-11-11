@@ -306,4 +306,14 @@ transition: 1000ms;
     z-index: 11;
     height:300px;
   }
+
+  #contact .bcg {
+    height: 360px;
+  }
+
+  #contact h1{
+    padding-top:50px;
+    padding-bottom:10px;
+
+  }
 }
